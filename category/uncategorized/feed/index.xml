@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; caseygessaman</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Dec 2022 00:06:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Quitting my job and living in my car</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[cgessaman]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2022 23:44:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[In November 2022 I quit my software engineering job and decided to start living in my car. Why quit your job? I’ve always wanted to retire as soon as possible. A mini retirement will help me decide if that is actually a good idea or not. Will my life fall apart without the structure of [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>In November 2022 I quit my software engineering job and decided to start living in my car.</p>
+
+
+
+<h2>Why quit your job? </h2>
+
+
+
+<p>I’ve always wanted to retire as soon as possible. A mini retirement will help me decide if that is actually a good idea or not. Will my life fall apart without the structure of a 9-5 job? Will I find my true passion and take over the world? No way of knowing until I try it out.</p>
+
+
+
+<h2>Why live in your car?</h2>
+
+
+
+<ul>
+<li>This is what enables me to mini retire. Rent is expensive. If I kept paying rent I could only retire for a year. Now I can quit for 2 years.</li>
+
+
+
+<li>I don’t need a house anymore. I don’t need high speed internet or reliable power since I don’t work. I don’t need to stay in a specific place. I have plenty of time to explore</li>
+
+
+
+<li>It makes travel cheap. I found cash burn highly irritating when I would go on vacation. I’m supposed to relax and have fun, but in addition to the money I was already spending on a house and a car back home, I would now also be paying for a hotel and a rental car in the new place I was staying. And on top of that I was burning precious time off so I would choose expensive fast plane tickets to get out and get back as fast as possible. Now I leisurely travel from city to city. I can stay as long or as short as I want. I can stop and explore anything and chase sunshine. And I’m only paying for gas.</li>
+</ul>
+
+
+
+<h2>Why this car?</h2>
+
+
+
+<p>It’s the one I already had. It runs. Its ugly. Its cheap. A true gem of Colorado its an economical commuter car with 9000 dollars knocked of the price by severe hail damage. No one would want to steal it. It gets good fuel economy. Its reliable. It cost me no money and no effort to start with this one</p>
+
+
+
+<p><strong>Downsides: Its small</strong></p>
+
+
+
+<p>I removed the upright portion of the back seats so I can lay with my legs in the trunk section. It is acceptable. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
